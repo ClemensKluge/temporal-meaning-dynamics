@@ -216,7 +216,7 @@ The model connects formal results to phenomenological concepts (see §4.3 of the
 ## Citation
 
 ```
-[Author(s)] (2026). Temporal Meaning Dynamics: A Delay-Differential Equation
+C.Kluge (2026). Temporal Meaning Dynamics: A Delay-Differential Equation
 Model of Sense-Making, Bifurcation, and Temporal Carrying Capacity.
 Frontiers in Computational Neuroscience (Hypothesis and Theory). doi: [pending]
 ```
