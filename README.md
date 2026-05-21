@@ -229,4 +229,4 @@ MIT License — see LICENSE file.
 
 ---
 
-*For questions or correspondence: clemenskluge(at)gmx.de*
+*For questions or correspondence: clemenskluge@gmx.de*
